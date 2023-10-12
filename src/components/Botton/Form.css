@@ -1,0 +1,15 @@
+.background {
+  width: 200px;
+  height: auto;
+  margin: 40px auto 0 auto;
+  border: 1px solid black;
+}
+
+.background div {
+  margin: 20px 0 20px 0;
+}
+.background div label span {
+  width: 118px;
+  margin-left: 12px;
+  display: block;
+}
